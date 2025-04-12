@@ -1,2 +1,2 @@
 # Ingredients-Analysis-using-Natural-Language-Processing
-Supermakerts garner all kind of food products and people usually choose the product on the face value. Very few turn the packet and look at the ingredients. Even then, we are not nutritionists to know what exactly the ingredients mean. So here is an attempt to use NLP for ingredient analysis
+Supermarkets offer a wide range of food products, and most people select items based on their appearance or brand appeal. Only a few take the time to turn the packet around and check the ingredients—and even then, we're not all nutritionists who understand what those ingredients truly mean. This project aims to leverage Natural Language Processing (NLP) to analyze and interpret food ingredients more effectively.
